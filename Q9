@@ -1,0 +1,6 @@
+text = input("Enter a text here: ")
+text1 = input("Enter a substring: ")
+if text1 in text:
+    print("This text is present in original string.")
+else:
+    print("This text is not present in original string.")
