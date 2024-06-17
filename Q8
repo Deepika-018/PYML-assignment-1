@@ -1,0 +1,4 @@
+text1 = input("Enter a text here: ")
+text2 = input("Enter another text: ")
+text3 = text1 + text2
+print(text3)
